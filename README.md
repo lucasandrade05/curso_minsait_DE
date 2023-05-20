@@ -1,3 +1,3 @@
 # curso_minsait_DE
 AULA 01
-AULA 02 t
+AULA 02 teste
